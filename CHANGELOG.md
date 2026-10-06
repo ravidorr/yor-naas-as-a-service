@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 - 2026-10-06
+
+- Deprecate this repository in favor of [YESorNOaaS](https://github.com/ravidorr/yes-or-no-as-a-service).
+  Use `@ravidor/yesornoaas` instead of `@ravidor/yornaas`.
+
 ## 1.0.0 - 2026-10-05
 
 - Launch YorNaaS (Yes or No as a Service) combining yes and no answer routes.

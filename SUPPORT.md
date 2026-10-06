@@ -2,7 +2,9 @@
 
 ## Getting help
 
-Support for YorNaaS is provided through [GitHub issues](https://github.com/ravidorr/yor-naas-as-a-service/issues).
+YorNaaS is deprecated. For new projects and ongoing support, use [YESorNOaaS](https://github.com/ravidorr/yes-or-no-as-a-service).
+
+Legacy YorNaaS issues remain available through [GitHub issues](https://github.com/ravidorr/yor-naas-as-a-service/issues).
 
 Use issues for:
 

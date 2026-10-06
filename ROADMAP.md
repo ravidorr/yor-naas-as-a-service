@@ -1,5 +1,7 @@
 # YorNaaS roadmap
 
+**Deprecated.** Development moved to [YESorNOaaS](https://github.com/ravidorr/yes-or-no-as-a-service).
+
 Living plan for [yor-naas-as-a-service](https://github.com/ravidorr/yor-naas-as-a-service). Update this file when scope or priorities change.
 
 **Current release:** [`@ravidor/yornaas`](https://www.npmjs.com/package/@ravidor/yornaas) — version on `main` lives in [`package.json`](./package.json); tags and notes on [GitHub Releases](https://github.com/ravidorr/yor-naas-as-a-service/releases).

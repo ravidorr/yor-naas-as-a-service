@@ -1,7 +1,8 @@
 {
   "name": "@ravidor/yornaas",
-  "version": "1.0.0",
-  "description": "Yes or No as a Service: call /api/yes or /api/no for Yes! or No!",
+  "version": "1.0.1",
+  "deprecated": "YorNaaS moved to YESorNOaaS. Use @ravidor/yesornoaas: https://github.com/ravidorr/yes-or-no-as-a-service",
+  "description": "Deprecated: moved to @ravidor/yesornoaas at yes-or-no-as-a-service.",
   "license": "MIT",
   "type": "module",
   "main": "src/server.js",

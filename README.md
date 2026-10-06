@@ -1,5 +1,7 @@
 # YorNaaS
 
+> **Deprecated:** YorNaaS has moved to [YESorNOaaS](https://github.com/ravidorr/yes-or-no-as-a-service). Use `npm install -g @ravidor/yesornoaas` instead of `@ravidor/yornaas`.
+
 Yes or No as a Service.
 
 Call the answer routes:
